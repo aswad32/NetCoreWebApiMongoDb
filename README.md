@@ -1,4 +1,4 @@
-![alt tag](http://pictub.club/image/hQrHP)
+![alt tag](http://s.pictub.club/2016/11/20/hQrHP.png)
 
 ## Just another code sharing
 The result of my play around dotNetCore, MongoDb inside my MacBookAir... Quite impress with Microsoft effort on making their 
