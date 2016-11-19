@@ -1,3 +1,5 @@
+![alt tag](http://pictub.club/image/hQrHP)
+
 ## Just another code sharing
 The result of my play around dotNetCore, MongoDb inside my MacBookAir... Quite impress with Microsoft effort on making their 
 technology stack open source.
