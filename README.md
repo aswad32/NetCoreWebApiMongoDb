@@ -4,5 +4,5 @@ technology stack open source.
 
 ## How to:
 *   Restore nuget package by running [dotnet restore]
-*   Restore mongodb dump file inside Dump folder
+*   Restore mongodb dump file inside Dump folder (zip Archive)
 *   Build and Run It, please take note this is Web Api project, i'm using Swashbuckle to test the Web Api, you can simply view it at the following URL, http://localhost:5000/swagger/ui/index.html#/
